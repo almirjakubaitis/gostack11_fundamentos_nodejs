@@ -14,9 +14,6 @@ Aplicação para treinar conceitos do Node.js junto ao TypeScript: Conceitos de 
 </blockquote>
 
 
-
-<img alt="GoStack" src="/.github/react_app.png" />
-
  ## 💻 Tecnologias
 
    - Node.js
